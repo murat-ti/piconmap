@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144642106818",
+    "project_id": "piconmap-android",
+    "storage_bucket": "piconmap-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144642106818:android:51658dfa2a142d08f4a25b",
+        "android_client_info": {
+          "package_name": "com.mk.piconmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144642106818-vtlj0c0b6b6mnsg4457qgiqkaq0a670v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq03BYxBdOIB0TFKA4w3ulBo9yJgqiAqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144642106818-vtlj0c0b6b6mnsg4457qgiqkaq0a670v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

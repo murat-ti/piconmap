@@ -1,0 +1,1 @@
+enum PreferencesKeys { LOCALE_LANGUAGE, LOCALE_COUNTRY, THEME }
